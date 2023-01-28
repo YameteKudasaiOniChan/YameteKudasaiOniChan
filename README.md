@@ -11,6 +11,7 @@
 <p align="center">
 <img src="https://simpleicons.org/icons/python.svg" width=30>
 <img src="https://simpleicons.org/icons/csharp.svg" width=30>
+<img src="https://simpleicons.org/icons/archlinux.svg" width=30>
 <img src="https://simpleicons.org/icons/unity.svg" width=30>
 <img src="https://simpleicons.org/icons/html5.svg" width=30>
 <img src="https://simpleicons.org/icons/css3.svg" width=30>

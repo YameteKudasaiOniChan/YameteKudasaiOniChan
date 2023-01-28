@@ -24,5 +24,5 @@
 </p>
 
 <p align="center">
-<h1> Buy a coffee for me <h1>
+<h2> Buy a coffee for me <h2>
 <img src="https://simpleicons.org/icons/buymeacoffee.svg" width=50> </p>

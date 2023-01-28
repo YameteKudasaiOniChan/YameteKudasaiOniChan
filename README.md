@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**YameteKudasaiOniChan/YameteKudasaiOniChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hello there! My name is MohmmadAmin</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">When I'm not developing and coding, you can find me Watching Anime, Playing Genshin Impact , listening to music. Memes are something that are appreciated very much :) </p>
+
+<p align="center">
+<a href="https://t.me/Yamete_Kudasai_Oni_Chan"><img src="https://simpleicons.org/icons/telegram.svg" width=50></a>
+<a href="https://github.com/YameteKudasaiOniChan"><img src="https://simpleicons.org/icons/github.svg" width=50></a>
+</p>
+<p align="center">
+<img src="https://simpleicons.org/icons/python.svg" width=30>
+<img src="https://simpleicons.org/icons/csharp.svg" width=30>
+<img src="https://simpleicons.org/icons/unity.svg" width=30>
+<img src="https://simpleicons.org/icons/html5.svg" width=30>
+<img src="https://simpleicons.org/icons/css3.svg" width=30>
+</p>
+<hr>
+<p align="center">
+<img src="https://simpleicons.org/icons/python.svg" width=30>
+<img src="https://simpleicons.org/icons/csharp.svg" width=30>
+<img src="https://simpleicons.org/icons/html5.svg" width=30>
+<img src="https://simpleicons.org/icons/css3.svg" width=30>
+</p>
+
+<p align="center">
+# Buy a coffee for me <br>
+<img src="https://simpleicons.org/icons/buymeacoffee.svg" width=50> </p>

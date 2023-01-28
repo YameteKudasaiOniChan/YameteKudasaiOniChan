@@ -23,6 +23,6 @@
 <img src="https://simpleicons.org/icons/css3.svg" width=30>
 </p>
 
-<p align="center">
+
 <h2 align="center">Buy a coffee for me!</h2>
-<img src="https://simpleicons.org/icons/buymeacoffee.svg" width=50> </p>
+<p align="center"><img src="https://simpleicons.org/icons/buymeacoffee.svg" width=50> </p>

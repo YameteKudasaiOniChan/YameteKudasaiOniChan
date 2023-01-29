@@ -7,6 +7,7 @@
 <p align="center">
 <a href="https://t.me/Yamete_Kudasai_Oni_Chan"><img src="https://simpleicons.org/icons/telegram.svg" width=50></a>
 <a href="https://github.com/YameteKudasaiOniChan"><img src="https://simpleicons.org/icons/github.svg" width=50></a>
+<a href="https://twitter.com/YameteKudasaioc?t=E1ryIBxsngiGxQd27T-cRg&s=09"><img src="https://simpleicons.org/icons/twitter.svg" width=50></a>
 </p>
 <p align="center">
 <img src="https://simpleicons.org/icons/python.svg" width=30>
